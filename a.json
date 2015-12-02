@@ -1,0 +1,116 @@
+[
+  {
+   "name":"Lakshay",
+   "age":24,
+   "imageLink":"images/user.png",
+   "badge":"Shaana",
+   "totalGames":50,
+   "followers":30,
+   "following":40,
+   "wins":20,
+   "followedTopics":[{
+    "topicName":"Cricket",
+    "gamesPlayed":10,
+    "gamesWon":5
+  },
+  {
+    "topicName":"Indian History",
+    "gamesPlayed":10,
+    "gamesWon":5
+  },
+  {
+    "topicName":"Indian Politics",
+    "gamesPlayed":10,
+    "gamesWon":5
+  },
+  {
+    "topicName":"Indian Constitution",
+    "gamesPlayed":10,
+    "gamesWon":5
+  },
+  {
+    "topicName":"Physics",
+    "gamesPlayed":10,
+    "gamesWon":5
+  },
+  {
+    "topicName":"Chemistry ",
+    "gamesPlayed":10,
+    "gamesWon":5
+  },
+  {
+    "topicName":"Mathematics ",
+    "gamesPlayed":10,
+    "gamesWon":5
+  },
+  {
+    "topicName":"General Knowledge",
+    "gamesPlayed":10,
+    "gamesWon":5
+  }
+],
+  "friends":["Arjun","Prakash","Mohit"]
+
+},
+{
+  "name":"Ayush",
+  "age":23,
+  "imageLink":"images/user.png",
+  "badge":"Turing Master",
+  "totalGames":87,
+  "followers":90,
+  "following":95,
+  "wins":67,
+  "followedTopics":[
+    {
+      "topicName":"Computer Science",
+      "gamesPlayed":45,
+      "gamesWon":38
+    },
+    {
+      "topicName":"Indian Politics",
+      "gamesPlayed":15,
+      "gamesWon":9
+    },
+    {
+      "topicName":"Who Am I",
+      "gamesPlayed":20,
+      "gamesWon":13
+    }
+  ],
+  "friends":["Rohit","Sumit","Tanuj"]
+},
+{
+  "name":"Rahul",
+  "age":27,
+  "imageLink":"images/user.png",
+  "badge":"History Buff",
+  "totalGames":57,
+  "followers":70,
+  "following":25,
+  "wins":27,
+  "followedTopics":[
+    {
+      "topicName":"Indian History",
+      "gamesPlayed":45,
+      "gamesWon":38
+    },
+    {
+      "topicName":"Chemistry",
+      "gamesPlayed":5,
+      "gamesWon":2
+    },
+    {
+      "topicName":"Who Am I",
+      "gamesPlayed":10,
+      "gamesWon":3
+    },
+    {
+      "topicName":"Football",
+      "gamesPlayed":9,
+      "gamesWon":6
+    }
+  ],
+  "friends":["Javed","Raj","Sumit","Aman","Steven"]
+}
+]
