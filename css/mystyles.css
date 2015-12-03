@@ -12,6 +12,35 @@ p{
     #button-height a{
      font-size:20px;
    }
+   .topicsinfo .badge{
+     position: absolute;
+     top:0;
+     right:6px;
+     width:20px;
+     font-size: 8px;
+   }
+   .Followinfo
+   {
+
+     color:white;
+
+   }
+
+    #badge,#country,
+   {
+     font-size: 15px;
+   }
+   .Following,.Followers,.game
+    {
+      font-size: 15px;
+      margin-bottom: 5px;
+    }
+    #UserName
+    {
+      padding-right: 3px;
+      border-right: 1px pink solid;
+      font-size: 15px;
+    }
  }
 @media(min-width:550px){
 
@@ -19,6 +48,37 @@ p{
   p{font-size:18px;}
   #button-height a{
    font-size:20px;
+ }
+ .topicsinfo .badge{
+   position: absolute;
+   top:0;
+   right:13px;
+   width:50px;
+   height: 25px;
+   font-size: 18px;
+
+ }
+ .Followinfo
+ {
+
+   color:white;
+   padding-left: 140px;
+ }
+
+  #badge,#country
+ {
+   font-size: 20px;
+ }
+.Following,.Followers,.game
+ {
+   font-size: 20px;
+   margin-bottom: 7px;
+ }
+ #UserName
+ {
+   padding-right: 3px;
+   border-right: 1px  red solid;
+   font-size: 20px;
  }
 }
 #Quizzer{
@@ -101,4 +161,14 @@ text-align: center;
   width:100%;
   color:white;
   font-size: 27px;
+}
+
+.usermiddle
+{
+
+  border-right: 2px red solid;
+  color:white;
+}
+.user{
+  background-color:rgb(67, 73, 74);
 }
