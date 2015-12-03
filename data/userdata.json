@@ -10,49 +10,49 @@
    "wins":20,
    "followedTopics":[{
     "topicName":"Cricket",
-    "topicurl":"image1.jpg",
+    "topicImage":"images/followers.jpeg",
     "gamesPlayed":10,
     "gamesWon":5
   },
   {
     "topicName":"Indian History",
-      "topicurl":"image1.jpg",
+    "topicImage":"images/followers.jpeg",
     "gamesPlayed":10,
     "gamesWon":5
   },
   {
     "topicName":"Indian Politics",
-      "topicurl":"image1.jpg",
+    "topicImage":"images/followers.jpeg",
     "gamesPlayed":10,
     "gamesWon":5
   },
   {
     "topicName":"Indian Constitution",
-      "topicurl":"image1.jpg",
+    "topicImage":"images/followers.jpeg",
     "gamesPlayed":10,
     "gamesWon":5
   },
   {
     "topicName":"Physics",
-      "topicurl":"image1.jpg",
+    "topicImage":"images/followers.jpeg",
     "gamesPlayed":10,
     "gamesWon":5
   },
   {
     "topicName":"Chemistry ",
-      "topicurl":"image1.jpg",
+    "topicImage":"images/followers.jpeg",
     "gamesPlayed":10,
     "gamesWon":5
   },
   {
     "topicName":"Mathematics ",
-      "topicurl":"image1.jpg",
+    "topicImage":"images/followers.jpeg",
     "gamesPlayed":10,
     "gamesWon":5
   },
   {
     "topicName":"General Knowledge",
-      "topicurl":"image1.jpg",
+    "topicImage":"images/followers.jpeg",
     "gamesPlayed":10,
     "gamesWon":5
   }
@@ -72,19 +72,19 @@
   "followedTopics":[
     {
       "topicName":"Computer Science",
-        "topicurl":"image1.jpg",
+      "topicImage":"images/followers.jpeg",
       "gamesPlayed":45,
       "gamesWon":38
     },
     {
       "topicName":"Indian Politics",
-        "topicurl":"image1.jpg",
+      "topicImage":"images/followers.jpeg",
       "gamesPlayed":15,
       "gamesWon":9
     },
     {
       "topicName":"Who Am I",
-        "topicurl":"image1.jpg",
+      "topicImage":"images/followers.jpeg",
       "gamesPlayed":20,
       "gamesWon":13
     }
@@ -103,25 +103,25 @@
   "followedTopics":[
     {
       "topicName":"Indian History",
-        "topicurl":"image1.jpg",
+      "topicImage":"images/followers.jpeg",
       "gamesPlayed":45,
       "gamesWon":38
     },
     {
       "topicName":"Chemistry",
-        "topicurl":"image1.jpg",
+      "topicImage":"images/followers.jpeg",
       "gamesPlayed":5,
       "gamesWon":2
     },
     {
       "topicName":"Who Am I",
-        "topicurl":"image1.jpg",
+      "topicImage":"images/followers.jpeg",
       "gamesPlayed":10,
       "gamesWon":3
     },
     {
       "topicName":"Football",
-        "topicurl":"image1.jpg",
+      "topicImage":"images/followers.jpeg",
       "gamesPlayed":9,
       "gamesWon":6
     }
